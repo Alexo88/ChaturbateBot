@@ -1,1 +1,1 @@
-python-3.6.10 ChaturbateBot.py -k 940016330:AAESCF_foXlzeZwnsHjEuonRCJMeM4I2lZY
+$ python3 ChaturbateBot.py -k 940016330:AAESCF_foXlzeZwnsHjEuonRCJMeM4I2lZY
